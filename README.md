@@ -1,3 +1,29 @@
+<!-- ![Drinking game App](thumbnail.png)-->
+# Telmo's portfolio
+
+<div align='center'>
+  
+<a href='https://github.com/kenjishiromajp/drinking-app-web/releases'>
+  
+<img src='https://img.shields.io/github/v/release/kenjishiromajp/drinking-app-web?color=%23FDD835&label=version&style=for-the-badge'>
+  
+</a>
+  
+<a href='https://github.com/kenjishiromajp/drinking-app-web/blob/main/LICENSE'>
+  
+<img src='https://img.shields.io/github/license/kenjishiromajp/drinking-app-web?style=for-the-badge'>
+  
+</a>
+  
+</div>
+
+<br />
+
+---
+
+<div align='center'>
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
