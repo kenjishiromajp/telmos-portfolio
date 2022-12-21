@@ -1,5 +1,6 @@
 import { Box, Container, VStack } from '@chakra-ui/react';
 import { ReactNode } from 'react';
+import Header from '../components/Navbar/Header';
 
 interface MainLayoutProps {
   children: ReactNode;
@@ -8,6 +9,7 @@ interface MainLayoutProps {
 export default function MainLayout({ children }: MainLayoutProps) {
   return (
     <VStack minH="100vh" margin={0}>
+      <Header />
       <Container flex={1} maxW="container.xl">
         {children}
       </Container>

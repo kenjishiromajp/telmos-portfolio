@@ -13,6 +13,10 @@ const colors = {
 };
 
 const theme = extendTheme({
+  fonts: {
+    heading: `'Work Sans', sans-serif`,
+    body: `'Work Sans', sans-serif`,
+  },
   colors,
   components: {
     Container: {
